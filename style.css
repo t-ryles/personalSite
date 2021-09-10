@@ -1,7 +1,8 @@
 div.welcomeMessage {
-    height: 10em;
-    position: relative
+    height: 12em;
+    font-family: 'Rock Salt', cursive;
 }
+
 div.welcomeMessage h1 {
     margin: 0;
     background: yellow;
